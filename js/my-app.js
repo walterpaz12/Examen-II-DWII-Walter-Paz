@@ -33,9 +33,9 @@ var myApp = new Framework7({
 		},
 		
 		{
-		path: '/t/',
-    	url: 'tera_pf.html',
-    	name: 't',
+		path: '/comayagua/',
+    	url: 'comayagua.html',
+    	name: 'comayagua',
 		},
 		
 		{
