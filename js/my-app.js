@@ -51,40 +51,36 @@ var myApp = new Framework7({
 		},
 		
 		{
-		path: '/au/',
-    	url: 'au_pf.html',
-    	name: 'au',
+		path: '/roatan/',
+    	url: 'roatan.html',
+    	name: 'roatan',
   		},
 		
 		{
-		path: '/planes/',
-    	url: 'planes_pf.html',
-    	name: 'planes',
+		path: '/lima/',
+    	url: 'lima.html',
+    	name: 'lima',
   		},
 		
 		{
-		path: '/ayuda/',
-    	url: 'ay_pf.html',
-    	name: 'ayuda',
+		path: '/buenos-aires/',
+    	url: 'buenos-aires.html',
+    	name: 'buenos-aires',
   		},
 		
-		{
-		path: '/pagos/',
-    	url: 'pagos_pf.html',
-    	name: 'pagos',
-  		},
 		
 		{
-		path: '/orden/',
-    	url: 'orden_pf.html',
-    	name: 'orden',
+		path: '/promociones/',
+    	url: 'promociones.html',
+    	name: 'promociones',
   		},
 		
 		{
 		path: '/perfil/',
-    	url: 'perfil_pf.html',
+    	url: 'perfil.html',
     	name: 'perfil',
   		},
+		
 		
 		
 		
