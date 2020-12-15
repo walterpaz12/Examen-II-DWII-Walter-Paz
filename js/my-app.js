@@ -120,7 +120,7 @@ $$('#btnLogin').on('click', function () {
 	var Password = $$('#password').val();
 	
   	if(Usuario == "jframos" && Password == "123"){
-		myApp.dialog.alert('¡ Welcome to /Bienvenido a ITravel !');
+		myApp.dialog.alert('¡ Welcome to /Bienvenido a ITravel App !');
 		myApp.loginScreen.close(".modal-login");
 		
 	}else{
