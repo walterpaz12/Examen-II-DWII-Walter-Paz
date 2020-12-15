@@ -21,9 +21,9 @@ var myApp = new Framework7({
   		},
 		
 		{
-		path: '/nutri/',
-    	url: 'nutri_pf.html',
-    	name: 'nutri',
+		path: '/destinos/',
+    	url: 'destinos.html',
+    	name: 'destinos',
 		},
 		
 		{
