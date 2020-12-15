@@ -124,11 +124,11 @@ $$('#btnLogin').on('click', function () {
 	var Password = $$('#password').val();
 	
   	if(Usuario == "jframos" && Password == "123"){
-		myApp.dialog.alert('¡ Bienvenido a Power Fit App !');
+		myApp.dialog.alert('¡ Welcome to /Bienvenido a ITravel !');
 		myApp.loginScreen.close(".modal-login");
 		
 	}else{
-		myApp.dialog.alert('Lo sentimos, sus datos son incorrectos');
+		myApp.dialog.alert('Lo sentimos, sus datos son incorrectos / Wrong Data');
 	}
 	
 	
