@@ -39,15 +39,15 @@ var myApp = new Framework7({
 		},
 		
 		{
-		path: '/alim/',
-    	url: 'ali_pf.html',
-    	name: 'alim',
+		path: '/san-jose/',
+    	url: 'san-jose.html',
+    	name: 'san-jose',
 		},
 		
 		{
-		path: '/ent/',
-    	url: 'ent_pf.html',
-    	name: 'ent',
+		path: '/san-salvador/',
+    	url: 'san-salvador.html',
+    	name: 'san-salvador',
 		},
 		
 		{
