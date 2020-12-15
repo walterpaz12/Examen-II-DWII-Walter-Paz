@@ -27,9 +27,9 @@ var myApp = new Framework7({
 		},
 		
 		{
-		path: '/ep/',
-    	url: 'ep_pf.html',
-    	name: 'ep',
+		path: '/santa-tecla/',
+    	url: 'santa-tecla.html',
+    	name: 'santa-tecla',
 		},
 		
 		{
