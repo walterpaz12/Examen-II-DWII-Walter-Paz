@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 :root{
-    --f7-theme-color:#007042;
+    --f7-theme-color:#FECD01;
     --f7-navbar-bg-color: #007042; /*navbar*/
     --f7-navbar-text-color:#fff;
     --f7-bars-bg-color:#fff;/*toolbar*/
@@ -15,6 +15,7 @@
 	--color-rojo-claro:#BC5152;
 	--fondo-menu:#fafafa;
 	--color-azul: #031EB9;
+	
 }
 body{
 	font-family: 'Roboto', sans-serif;
